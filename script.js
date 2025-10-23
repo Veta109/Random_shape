@@ -20,8 +20,8 @@ function sizing() {
 }
 
 function pos(){
-    let h = randomNum(-3, 603);
-    let w = randomNum(-3, 603);
+    let h = randomNum(0, 590);
+    let w = randomNum(0, 590);
     let i = randomNum(1, 4);
     switch (i) {
         case 1:
